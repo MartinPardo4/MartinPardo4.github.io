@@ -1,0 +1,102 @@
+.encabezado{
+    font-family: Georgia;
+    text-align: center;
+    text-decoration: underline;
+    width: 600px;
+    height: 150px;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Arial';
+}
+
+.cuerpo_texto {
+    background: linear-gradient(transparent, #333);
+    height: 400px;
+    width: 600px;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 10px;
+    border-bottom: 5px solid black;
+    border-radius: 10px;
+
+}
+
+.lorem{
+    background: linear-gradient(#999, #b359, #666) #b35;
+    padding: 30px;
+    border: 2px solid #3334;
+    box-shadow: 0 0 40px #0007;
+    
+}
+
+body{
+    color: #eee;
+    background: #05aa;
+    background-image: url(https://virtual.uao.edu.co/hubfs/Imported_Blog_Media/Desmintiendo-mitos-de-la-ingenieria-informatica.webp);
+    background-size: cover;
+}
+
+.presentacion{
+    background: #999;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    border-left: 5px solid #000;
+    border-right: 5px solid #000;
+    box-shadow: 0 0 40px #000a;
+    text-align: center;
+}
+
+.conocimientos{
+    text-align: left;
+}
+
+
+.enlaces{
+    background: linear-gradient(to top, #333, #888);
+    box-sizing: border-box;
+    width: 600px;
+    margin: auto;
+    height: 25%;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: 2px solid #0007;
+}
+
+a{
+    color: rgb(207, 170, 233);
+    margin: 10px;   
+}
+
+.encabezado_con_imagen{
+    background: linear-gradient(#0003, transparent);
+}
+
+.imagen_contenedor{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.imagen{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 0 30px 1px #000;
+}
+
+
+
+
